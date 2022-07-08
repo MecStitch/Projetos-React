@@ -1,0 +1,8 @@
+body{
+  background-color: rgb(215, 242, 255);
+}
+
+
+#delete:hover{
+  color: rgb(255, 81, 81);
+}
